@@ -1,0 +1,74 @@
+body {
+    background-color: rgb(36, 34, 46);
+    color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: palevioletred;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 5px;
+
+
+}
+
+nav {
+    word-spacing: 10px;
+    text-transform: uppercase;
+    border-radius: 5px;
+    margin: 5px;
+    margin-top: 10px;
+    padding: 5px;
+    background-color: palevioletred;
+    font-size: 18px;
+    font-variant: inherit;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: aliceblue
+}
+
+a:link {
+    color: blueviolet;
+}
+
+a:hover {
+    color: purple;
+}
+
+p {
+    color: aliceblue;
+}
+
+.products {
+    width: 300px;
+    height: 120px;
+    margin: 5px;
+    margin-bottom: 10px;
+    padding: 5px;
+    border-radius: 10px;
+
+}
+
+li {
+    color: aliceblue;
+    list-style-type: square;
+
+}
+
+footer {
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+    background-color: plum;
+}
